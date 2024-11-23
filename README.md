@@ -91,7 +91,7 @@ Example test samples are passed through the model to predict sentiments.
 For Version 2, GloVe embeddings must be downloaded from the GloVe Official Website. These embeddings map words to a 100-dimensional vector space, enhancing the model's understanding of semantic relationships.
 
 ### **7. Results**
-**Version 1**
+**Version 1:**
 
 **Training:** ~95.7% training accuracy by Epoch 15.
 
@@ -99,10 +99,10 @@ For Version 2, GloVe embeddings must be downloaded from the GloVe Official Websi
 
 **Test Accuracy:** Achieves 87.9%, consistent with validation accuracy trends.
 
-**Version 2**
+**Version 2:**
 
 **Training:** training accuracy of 89.2%.
 
 **Validation:** Improved best validation accuracy: ~88.8%.
 
-**Test Accuracy** Achieves 88.9%, consistent with validation accuracy trends.
+**Test Accuracy:** Achieves 88.9%, consistent with validation accuracy trends.
